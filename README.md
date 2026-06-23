@@ -58,4 +58,38 @@ Bar charts ranking pizzas by:
 ### 7. Bottom 5 Worst Sellers
 Bar charts identifying underperforming pizzas by:
 - Revenue
+- Quantity sold  
+- Total orders  
 
+---
+
+## Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| **MS Excel 2024** | Initial data cleaning & exploration |
+| **SQL Server 22.0** | Data modeling, transformations, KPI calculations |
+| **Power BI 2026** | Dashboard creation & visualization |
+
+---
+
+## Project Workflow
+
+1. Data import into SQL Server  
+2. Data cleaning and transformation  
+3. KPI calculations using SQL  
+4. Data modeling in Power BI  
+5. Dashboard development  
+6. Insights and recommendations  
+
+---
+
+## Insights & Recommendations
+
+- Strengthen loyalty rewards to increase repeat customers  
+- Review discount strategy to balance profit and promotions  
+- Highlight top‑rated and best‑selling pizzas in marketing  
+- Target high‑revenue age groups and express‑delivery customers  
+- Optimize inventory based on size and category demand  
+
+---
