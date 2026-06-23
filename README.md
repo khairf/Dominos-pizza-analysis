@@ -93,3 +93,15 @@ Bar charts identifying underperforming pizzas by:
 - Optimize inventory based on size and category demand  
 
 ---
+
+---
+
+## How to Use This Project
+
+1. Clone the repository  
+2. Import SQL scripts into SQL Server  
+3. Load cleaned tables into Power BI  
+4. Refresh the data model  
+5. Explore the interactive dashboard  
+
+---
