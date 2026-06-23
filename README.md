@@ -1,5 +1,4 @@
 # Dominos-pizza-analysis
-# Domino’s Pizza Sales Analytics Dashboard  
 ### Power BI | SQL Server | Excel
 
 ## Project Overview
